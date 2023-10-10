@@ -1,21 +1,28 @@
 AIM OF THE ANALYSIS
-The major aim of thE project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
+
+The major aim of the project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 With mySQL
 
 ABOUT THE DATASET
+
 The dataset was obtained from Kaggle. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. 
 The data contains 17 columns and 1000 rows. 
 
 DATA ANALYSIS
+
 This include Data Wrangling, Feature Engineering and EDA. This is followed by answering some critical questions that drew insights into the data.
+
 
 BUSINESS QUESTIONS
 
+
 GENERIC
+
 How many unique cities does the data have?
 In which city is each branch?
 
 PRODUCT
+
 How many unique product lines does the data have?
 What is the most common payment method?
 What is the most selling product line?
@@ -30,12 +37,14 @@ What is the most common product line by gender?
 What is the average rating of each product line?
 
 SALES
+
 Number of sales made in each time of the day per weekday
 Which of the customer types brings the most revenue?
 Which city has the largest tax percent/ VAT (Value Added Tax)?
 Which customer type pays the most in VAT?
 
 CUSTOMER
+
 How many unique customer types does the data have?
 How many unique payment methods does the data have?
 What is the most common customer type?
